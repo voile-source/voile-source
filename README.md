@@ -11,6 +11,10 @@
   <a href="https://voile-source.github.io" target="_blank">
     <img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue" alt="个人网站">
   </a>
+  <!-- bilibili徽章 -->
+  <a href="[https://voile-source.github.io](https://space.bilibili.com/170705291?spm_id_from=333.1007.0.0)" target="_blank">
+    <img src="https://img.shields.io/badge/Bilibili-视频网站-blue" alt="Bilibili">
+  </a>
   <!-- 访客徽章 -->
  <img src="https://visitor-badge.glitch.me/badge?page_id=voile-source&left_color=green&right_color=red">
 </p>
