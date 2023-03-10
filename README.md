@@ -5,8 +5,6 @@
 <br>
 <!-- 徽章start -->
 <p align="center">
-  <!-- Github徽章 -->
-  <a href="https://github.com/voile-source" target="_blank"><img src="https://img.shields.io/badge/GitHub-Augenestern--creator-brightgreen"></a>
   <!-- CSDN徽章 -->
  <a href="https://blog.csdn.net/weixin_49971653" target="_blank"><img src="https://img.shields.io/badge/CSDN-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-yellow"></a>
   <!-- 个人网站徽章 -->
