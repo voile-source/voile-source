@@ -38,7 +38,7 @@
 <br>
 <!-- 统计卡片start -->
 <div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=voile-source&hide_title=true&show_icons=true&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=voile-source&hide_title=true&show_icons=true" />
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voile-source&hide_title=true&layout=compact&langs_count=6" />
 </div>
 <!-- 统计卡片end -->
