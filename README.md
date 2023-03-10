@@ -1,6 +1,5 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=voile-source&count_private=true&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voile-source&layout=compact&card_width=50%&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=voile-source&hide_title=true&hide_border=true&show_icons=true&line_height=21" /> </div>
 
 <!--
 **voile-source/voile-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
