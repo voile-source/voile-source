@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm voile</h1>
 <h3 align="center">迷失的人迷失了，相逢的人会再相逢</h3>
-<p align="center>
+<p align="center">
 <table>
   <tr><td>
 
