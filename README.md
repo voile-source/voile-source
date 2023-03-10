@@ -36,7 +36,7 @@
 <br>
 <!-- programming tool icon 编程工具图标 -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ps,pr,c,cpp,cs,ts,discord,,mongodb,instagram,idea,git" /><br>
+  <img src="https://skillicons.dev/icons?i=ps,pr,c,cpp,cs,ts,discord,mongodb,instagram,idea,git" /><br>
 </p>
 <br>
 <!-- svg -->
