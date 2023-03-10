@@ -11,7 +11,6 @@
     <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> 
 </div>
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=voile-source" /> </div>
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=voile-source&theme=xcode" /> </div>
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=voile-source" /> </div>
 <div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=volit_"> </div>
 
