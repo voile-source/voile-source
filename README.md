@@ -4,7 +4,7 @@
   
   <img style="width:45%;box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voile-source&hide_title=true&hide_border=true&layout=compact&langs_count=6" /> 
 </div>
-<div align="center"> <img width="100%" src="https://github-profile-trophy.vercel.app/?username=voile-source&theme=flat&margin-w=5&no-frame=true" /> </div>
+<div align="center"> <img width="100%" src="https://github-profile-trophy.vercel.app/?username=voile-source&theme=flat&margin-w=5&margin-h=5&no-frame=true" /> </div>
 <div align="center"> 
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
