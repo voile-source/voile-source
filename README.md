@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=voile-source&hide_title=true&hide_border=true&show_icons=true&line_height=21" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voile-source&hide_title=true&hide_border=true&layout=compact&langs_count=6" /> </div>
+<div align="center" style="display:flex;"> <img style="flex: 1" height="137px" src="https://github-readme-stats.vercel.app/api?username=voile-source&hide_title=true&hide_border=true&show_icons=true&line_height=21" /><img style="flex: 1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voile-source&hide_title=true&hide_border=true&layout=compact&langs_count=6" /> </div>
 
 
 <!--
