@@ -11,7 +11,7 @@
   </a>
   <!-- 掘金徽章 -->
   <a href="https://juejin.cn/user/22455268157614" target="_blank">
-    <img src="https://img.shields.io/badge/掘金-博客论坛-blue" alt="Bilibili">
+    <img src="https://img.shields.io/badge/掘金-博客论坛-blue" alt="掘金">
   </a>
   <!-- CSDN徽章 -->
   <a href="https://blog.csdn.net/weixin_49971653" target="_blank"><img src="https://img.shields.io/badge/CSDN-博客-red"></a>
