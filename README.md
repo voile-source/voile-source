@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div style="display:flex;"> 
-  <img style="width:50%;" height="137px" src="https://github-readme-stats.vercel.app/api?username=voile-source&hide_title=true&hide_border=true&show_icons=true&line_height=21" />
-  <img style="width:50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voile-source&hide_title=true&hide_border=true&layout=compact&langs_count=6" /> 
+  <img style="width:45%;" height="137px" src="https://github-readme-stats.vercel.app/api?username=voile-source&hide_title=true&hide_border=true&show_icons=true&line_height=21" />
+  <img style="width:45%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voile-source&hide_title=true&hide_border=true&layout=compact&langs_count=6" /> 
 </div>
 
 
