@@ -7,7 +7,11 @@
 <p align="center">
   <!-- 个人网站徽章 -->
   <a href="https://voile-source.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue" alt="个人网站">
+    <img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-yellow" alt="个人网站">
+  </a>
+  <!-- 掘金徽章 -->
+  <a href="https://juejin.cn/user/22455268157614" target="_blank">
+    <img src="https://img.shields.io/badge/掘金-博客论坛-blue" alt="Bilibili">
   </a>
   <!-- CSDN徽章 -->
   <a href="https://blog.csdn.net/weixin_49971653" target="_blank"><img src="https://img.shields.io/badge/CSDN-博客-red"></a>
