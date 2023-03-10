@@ -38,14 +38,6 @@
 <!-- 统计卡片end -->
 <br>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://activity-graph.herokuapp.com/graph?username=voile-source&theme=dracula&bg_color=FF000000&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
 <!--
 **voile-source/voile-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
