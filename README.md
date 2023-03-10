@@ -23,15 +23,18 @@
 </p>
 <!-- 徽章end -->
 <br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat" alt="HTML">
-<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat" alt="HTML">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=fff&style=flat" alt="HTML">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat" alt="HTML">
-<img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat" alt="HTML">
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat" alt="HTML">
-<img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat" alt="HTML">
-<img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat" alt="HTML">
-<img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat" alt="HTML">
+<div style="flex"> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat" alt="HTML">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=fff&style=flat" alt="HTML">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat" alt="HTML">
+  <img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat" alt="HTML">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat" alt="HTML">
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat" alt="HTML">
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat" alt="HTML">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat" alt="HTML">
+ </div>
+
 
 <!-- Github奖杯🏆start -->
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=voile-source&theme=onedark&row=1&column=6&no-frame=true&no-bg=true"> </div>
