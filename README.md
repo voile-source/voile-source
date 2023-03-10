@@ -35,7 +35,9 @@
  </div>
 <br>
 <!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=ps,pr,c,cpp,cs,ts,idea,git" /><br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ps,pr,c,cpp,cs,ts,idea,git" /><br>
+</p>
 <br>
 <!-- Github奖杯🏆start -->
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=voile-source&theme=onedark&row=1&column=6&no-frame=true&no-bg=true"> </div>
