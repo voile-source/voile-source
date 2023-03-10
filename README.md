@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/badge/Bilibili-视频网站-blue" alt="Bilibili">
   </a>
   <!-- 访客徽章 -->
- <img src="https://visitor-badge.glitch.me/badge?page_id=voile-source&left_color=green&right_color=red">
+ <img src="https://visitor-badge.glitch.me/badge?page_id=voile-source">
 <!-- 徽章end -->
 <br>
 <div align="center"> 
