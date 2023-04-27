@@ -1,18 +1,3 @@
-<h1 align="center">Hi 👋, I'm voile</h1>
-<h3 align="center">迷失的人迷失了，相逢的人会再相逢</h3>
-<table align="center">
-  <tr><td>
-
-  <!-- About me 关于我 -->
-  ### About Me
-
-  <p>我是voile，目前就读于吉首大学软件工程专业，是一个刚入门的前端开发工程师。</p>
-  <p>因为对前端技术有着浓烈的兴趣，因此选择了入坑前端开发领域。</p>
-  <p>目前主要的技术栈是Vue3+Ts+Vite
-  </td></tr>
-</table>
-
-<br>
 <!-- 徽章start -->
 <p align="center">
   <!-- 个人网站徽章 -->
